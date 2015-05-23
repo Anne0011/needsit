@@ -1,0 +1,16 @@
+{
+  "name": "needsit",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Anne0011/needsit",
+  "authors": [
+    "Anne <anne.grose68@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
